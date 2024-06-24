@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>PayloadContent</key>
+	<array>
+		<dict>
+			<key>DNSSettings</key>
+			<dict>
+				<key>DNSProtocol</key>
+				<string>HTTPS</string>
+				<key>ServerURL</key>
+				<string>https://hnsdoh.com/dns-query</string>
+			</dict>
+			<key>PayloadDisplayName</key>
+			<string>HNS DoH</string>
+			<key>PayloadIdentifier</key>
+			<string>com.apple.dnsSettings.managed.7C1C0F79-BB95-4232-831C-B27B6776431E</string>
+			<key>PayloadType</key>
+			<string>com.apple.dnsSettings.managed</string>
+			<key>PayloadUUID</key>
+			<string>2CC87495-B76B-4E11-9FCC-DA0241CBEFB0</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>DNSSettings</key>
+			<dict>
+				<key>DNSProtocol</key>
+				<string>HTTPS</string>
+				<key>ServerURL</key>
+				<string>https://hnsns.net/dns-query</string>
+			</dict>
+			<key>PayloadDisplayName</key>
+			<string>HNS NS</string>
+			<key>PayloadIdentifier</key>
+			<string>com.apple.dnsSettings.managed.65371620-1DFC-4507-B76B-EB76B734769C</string>
+			<key>PayloadType</key>
+			<string>com.apple.dnsSettings.managed</string>
+			<key>PayloadUUID</key>
+			<string>B86A8E4C-E714-489C-BAA1-DFB0FA470510</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+		</dict>
+	</array>
+	<key>PayloadDisplayName</key>
+	<string>Handshake DNS</string>
+	<key>PayloadIdentifier</key>
+	<string>com.easyhns.doh</string>
+	<key>PayloadType</key>
+	<string>Configuration</string>
+	<key>PayloadUUID</key>
+	<string>79F01094-EA11-4D48-8F6A-54AD37ED81A5</string>
+	<key>PayloadVersion</key>
+	<integer>1</integer>
+</dict>
+</plist>

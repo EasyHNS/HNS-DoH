@@ -1,6 +1,12 @@
 # Resolve Handshake on Apple
 
-Resolve blockchain-based decentralized Hnadshake (HNS) domains on Apple devices.
+Resolve blockchain-based decentralized Handshake (HNS) domains on Apple platform devices.
+
+Uses the secure DNS over HTTPS (DoH) resolution method of DNS provider Easy HNS.
+
+Other platforms: https://easyhns.com
+
+About Handshake: https://handshake.org
 
 ## Usage
 
